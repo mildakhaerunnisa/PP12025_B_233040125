@@ -9,6 +9,7 @@ public class Node {
 		this.Nilai = Nilai;
 	}
 	
+	//setter dan getter
 	public void setNilai (int Nilai) {
 		this.Nilai=Nilai;
 	}
